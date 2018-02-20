@@ -1,0 +1,24 @@
+{
+	"name": "ruokuai-api",
+	"version": "0.1.0",
+	"description": "ruokuai api",
+	"main": "index.js",
+	"dependencies": {
+		"axios": "0.17.1",
+		"form-data": "2.3.2"
+	},
+	"devDependencies": {
+		"mocha": "5.0.1",
+		"chai": "4.1.2",
+		"nyc": "11.4.1"
+	},
+	"scripts": {
+		"test": "mocha",
+		"coverage": "nyc mocha"
+	},
+	"keywords": ["ruokuai", "remote", "打码", "验证码", "若快"],
+	"author": {
+		"name": "bestnathan"
+	},
+	"license": "MIT"
+}
