@@ -20,5 +20,9 @@
 	"author": {
 		"name": "bestnathan"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/BestNathan/ruokuai-api"
+	},
 	"license": "MIT"
 }
